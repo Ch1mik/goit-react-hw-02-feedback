@@ -1,0 +1,15 @@
+.optionBtns {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+.optionBtn {
+  width: 100px;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 8px;
+  background-color: #93c5fa;
+}
+.optionBtn:hover {
+  background-color: aqua;
+}
